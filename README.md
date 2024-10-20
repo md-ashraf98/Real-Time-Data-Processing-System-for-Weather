@@ -130,7 +130,7 @@ http://127.0.0.1:8000/weather/
 
 ## Screenshots
 ### 1. Weather Dashboard
-![Weather Dashboard](WeatherDashboard/Screenshots/Output.png)
+![Weather Dashboard](WeatherDashboard/Screenshots/weatherReport.png)
 
 
 ## Conclusion
