@@ -1,7 +1,5 @@
 # Real-Time-Data-Processing-System-for-Weather
 
-# Weather Alerting System 🌦️
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Objective](#objective)
